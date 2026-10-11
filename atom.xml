@@ -6,7 +6,7 @@
   <link href="https://zhxmaa.github.io/atom.xml" rel="self"/>
   
   <link href="https://zhxmaa.github.io/"/>
-  <updated>2026-10-10T12:48:26.000Z</updated>
+  <updated>2026-10-11T11:29:39.000Z</updated>
   <id>https://zhxmaa.github.io/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>致敏肾移植等待者围手术期处理方案（2009–2026）</title>
+    <link href="https://zhxmaa.github.io/2026/10/11/%E8%87%B4%E6%95%8F%E8%82%BE%E7%A7%BB%E6%A4%8D%E7%AD%89%E5%BE%85%E8%80%85%E5%9B%B4%E6%89%8B%E6%9C%AF%E6%9C%9F%E5%A4%84%E7%90%86%E6%96%B9%E6%A1%88%EF%BC%882009%E2%80%932026%EF%BC%89/"/>
+    <id>https://zhxmaa.github.io/2026/10/11/%E8%87%B4%E6%95%8F%E8%82%BE%E7%A7%BB%E6%A4%8D%E7%AD%89%E5%BE%85%E8%80%85%E5%9B%B4%E6%89%8B%E6%9C%AF%E6%9C%9F%E5%A4%84%E7%90%86%E6%96%B9%E6%A1%88%EF%BC%882009%E2%80%932026%EF%BC%89/</id>
+    <published>2026-10-11T11:29:39.000Z</published>
+    <updated>2026-10-11T11:29:39.000Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>概念界定：本文”致敏肾移植等待者”指存在预存抗 HLA 抗体者，包括 DSA 阳性、群体反应性抗体（PRA）高、计算 PRA（cPRA）≥85–99% 的<strong>高度致敏（highly sensitized）</strong>候选者。核心矛盾：预存 DSA 使交叉配型（CDC&#x2F;FCXM）阳性、HLA 不相容（HLAi）移植风险陡增——围手术期目标是通过<strong>脱敏（desensitization）+ 风险分层诱导 + 严密监测</strong>把 AMR 风险降到可接受水平，并完成移植。</p></blockquote><span id="more"></span><h2 id="一、致敏分层与术前评估（围手术期起点）"><a href="#一、致敏分层与术前评估（围手术期起点）" class="headerlink" title="一、致敏分层与术前评估（围手术期起点）"></a>一、致敏分层与术前评估（围手术期起点）</h2><ul><li><strong>定义与分层</strong>：以 cPRA&#x2F;cRF（虚拟反应频率）量化致敏广度；cPRA ≥85–99% 为高度致敏，≥99.9% 为极高度致敏（ESOT 指南 2022, PMID 36033645；Jackson 2026, PMID 41631379）。</li><li><strong>抗体精准刻画</strong>：Luminex 单抗原微珠测 DSA 特异性、MFI、补体结合（C3d&#x2F;C4d）、稀释反应；联合 CDC 与 FCXM 确定真实交叉配型状态（Barbari 2012, PMID 23031081）。</li><li><strong>不可直接移植的红线</strong>：当前阳性交叉配型（尤其 CDC 阳性）是<strong>绝对移植禁忌</strong>，须先脱敏转阴或弱阳性（Barbari 2012）。</li><li><strong>风险分层工具</strong>：ESOT ENGAGE 5 系统 + 在线计算器评估 AMR 风险，指导分层管理（ESOT 共识 2024, PMID 38665475）。</li></ul><h2 id="二、围手术期脱敏方案（移植前–术中）"><a href="#二、围手术期脱敏方案（移植前–术中）" class="headerlink" title="二、围手术期脱敏方案（移植前–术中）"></a>二、围手术期脱敏方案（移植前–术中）</h2><h3 id="2-1-经典脱敏组合（一线）"><a href="#2-1-经典脱敏组合（一线）" class="headerlink" title="2.1 经典脱敏组合（一线）"></a>2.1 经典脱敏组合（一线）</h3><table><thead><tr><th>组分</th><th>作用</th><th>用法要点</th></tr></thead><tbody><tr><td>血浆置换（PP）&#x2F;免疫吸附（IA）</td><td>清除循环 DSA</td><td>移植前多次，IA 特异性更强；Noble 2025 单中心 49 例 cPRA&gt;85% HLAi，IA+利妥昔+他克莫司+激素+MMF（PMID 40625754）</td></tr><tr><td>静脉免疫球蛋白（IVIG）</td><td>免疫调节、抑制抗体反弹</td><td>高剂量或低剂量+PP；与 PP 联用为标准（Akalin 2009, PMID 19001811）</td></tr><tr><td>利妥昔单抗（抗 CD20）</td><td>耗竭 B 细胞，抑制记忆 B 反弹</td><td>常与 PP&#x2F;IA、IVIG 序贯（Mattiazzi 2014, PMID 26281142；ESOT 2022 推荐 PP&#x2F;IA+IVIG±抗 CD20）</td></tr><tr><td>硼替佐米（蛋白酶体抑制剂）</td><td>耗竭浆细胞（抗体源头）</td><td>序贯&#x2F;联合，警惕周围神经病变（详见前期文档）</td></tr><tr><td><strong>imlifidase（IgG 降解酶）</strong></td><td>数小时内裂解全部 IgG，制造”抗体空白窗”</td><td>欧洲批准用于 cPRA≥98%、交叉配型阳性、ABO 相容的逝世供者高致敏成人（Kamar 2024, PMID 39430184；法国共识 PMID 37448448）</td></tr></tbody></table><h3 id="2-2-imlifidase-围手术期要点（近年热点）"><a href="#2-2-imlifidase-围手术期要点（近年热点）" class="headerlink" title="2.2 imlifidase 围手术期要点（近年热点）"></a>2.2 imlifidase 围手术期要点（近年热点）</h3><ul><li><strong>筛选</strong>：cPRA≥98%、等待 ≥3 年、免疫显性 DSA MFI &gt;6000 但 1:10 稀释后 &lt;5000、imlifidase 后 CDCXM 阴性（Kamar 2024；Couzi 2023, PMID 37448448）。</li><li><strong>方案</strong>：单剂 imlifidase 后全部转阴；围手术期予多克隆抗体（rATG）+ IVIG + 利妥昔 + 他克莫司 + MMF（Kamar 2024 首 9 例）。</li><li><strong>监测反弹</strong>：5&#x2F;9 例 14 天内 DSA 反弹，需序贯 PP&#x2F;IA 与严密随访（Kamar 2024；Furian 2024 Delphi 共识, PMID 39867871）。</li></ul><h3 id="2-3-致敏状态与移植路径选择"><a href="#2-3-致敏状态与移植路径选择" class="headerlink" title="2.3 致敏状态与移植路径选择"></a>2.3 致敏状态与移植路径选择</h3><ul><li><strong>优先非脱敏路径</strong>：分配优先权（cPRA 高者优先）、可接受的错配（AM）计划、肾交换（KPD）——这些应优先于脱敏（ESOT 2022；Heidt 2018, PMID 30004800；Holscher 2020, PMID 31255336）。</li><li><strong>脱敏作为最后手段</strong>：仅当兼容肾极难获得（尤其 cPRA≥99.9%）时启用（西班牙指南 PATHI 去名单化策略, PMID 40209457；比利时 Eurotransplant imlifidase 共识, PMID 40320582）。</li></ul><h2 id="三、诱导免疫抑制（围手术期关键）"><a href="#三、诱导免疫抑制（围手术期关键）" class="headerlink" title="三、诱导免疫抑制（围手术期关键）"></a>三、诱导免疫抑制（围手术期关键）</h2><ul><li><strong>强化诱导</strong>：高致敏&#x2F;HLAi 受者倾向 <strong>rATG（兔抗胸腺细胞球蛋白）</strong> 或 alemtuzumab；低危可用抗 IL-2R（巴利昔单抗）（Akalin 2009；ESOT 共识 2024 纳入诱导方案 Delphi）。</li><li><strong>证据</strong>：rATG 在低强度预存 DSA 中 AMR 率低、移植物存活好；高强度 DSA 需 rATG + 更激进脱敏，加用 B 细胞靶向药结果不一（Pascual 2016, PMID 26951711）。</li><li><strong>风险分层诱导</strong>：UW 经验采用”graded induction-desensitization”方案，按免疫风险分级（Parajuli 2020, PMID 33044350）。</li><li><strong>注意</strong>：ESOT 共识中<strong>补体抑制剂用于 AMR 预防</strong>的两项声明未达成共识（PMID 38665475）——即围手术期常规预防性补体阻断证据尚不充分。</li></ul><h2 id="四、术后监测与-AMR-预防"><a href="#四、术后监测与-AMR-预防" class="headerlink" title="四、术后监测与 AMR 预防"></a>四、术后监测与 AMR 预防</h2><ol><li><strong>程序性活检 + 再灌注活检</strong>：再灌注活检 C4d 阳性、术后 1 周 DSA 上升是 AMR 高危信号（Parajuli 2020）。</li><li><strong>连续 DSA + dd-cfDNA</strong>：dd-cfDNA 与分子 AMR 表型相关，支持纵向监测（Guney 2026, PMID 41740237）。</li><li><strong>分子诊断</strong>：MMDx、B-HOT 转录组可早于形态学捕捉亚临床 AMR（Guney 2026）。</li><li><strong>AMR 预防总则</strong>：移植后密切监测肾功能、dnDSA 动态、依从性（Morath 2012, PMID 22587522）；致敏者术后早期 DSA 反弹与内皮损伤是 AMR 主因（Guney 2026）。</li></ol><h2 id="五、特殊场景"><a href="#五、特殊场景" class="headerlink" title="五、特殊场景"></a>五、特殊场景</h2><ul><li><strong>儿童致敏候选者</strong>：30–40% 成人等待者致敏，儿童致敏比例上升；脱敏需兼顾生长与毒性（Puliyanda 2024, PMID 38400645）。</li><li>**极高度致敏 cPRA≥99.9%**：分配 + KPD + 去名单化（MFI&lt;5000 去名单）或 imlifidase 是主要手段（西班牙指南；Jackson 2026）。</li><li><strong>交叉配型阳性（CDC&#x2F;FCM+）</strong>：必须脱敏（IA+利妥昔等），Noble 2025 显示脱敏后 HLAi 与 HLAc 生存相当（PMID 40625754）。</li></ul><h2 id="六、指南与共识（2018–2026，核心）"><a href="#六、指南与共识（2018–2026，核心）" class="headerlink" title="六、指南与共识（2018–2026，核心）"></a>六、指南与共识（2018–2026，核心）</h2><table><thead><tr><th>指南&#x2F;共识</th><th>机构&#x2F;年份</th><th>与围手术期相关核心推荐</th></tr></thead><tbody><tr><td>ESOT 欧洲 HLA 抗体管理指南</td><td>Transplant Int 2022 (PMID 36033645)</td><td>用 cRF 定义致敏；优先分配&#x2F;AM 计划&#x2F;KPD；脱敏用 PP&#x2F;IA+IVIG±抗 CD20；imlifidase 作替代</td></tr><tr><td>ESOT ENGAGE 致敏受者管理共识（Delphi）</td><td>Transplant Int 2024 (PMID 38665475)</td><td>53 位专家、95.3% 声明达成共识；补体抑制剂预防 AMR 两项未共识</td></tr><tr><td>西班牙高致敏指南（PATHI）</td><td>Transplant Rev 2025 (PMID 40209457)</td><td>逐步去名单（MFI&lt;5000）、保留”低害”抗原、imlifidase</td></tr><tr><td>法国 imlifidase 共识</td><td>Transplant Int 2023 (PMID 37448448)</td><td>筛选 cPRA≥98%、MFI&gt;6000&#x2F;dil&lt;5000、imlifidase 后 CDCXM 阴性</td></tr><tr><td>比利时 Eurotransplant imlifidase 共识</td><td>Transplantation 2025 (PMID 40320582)</td><td>AM 计划内 imlifidase 脱敏实操</td></tr><tr><td>imlifidase HLAi Delphi 国际共识</td><td>Transplant Int 2024 (PMID 39867871)</td><td>15 国 MDT 端到端管理指导</td></tr><tr><td>STAR 2022 移植后 DSA 评估共识</td><td>AJT 2023 (PMID 36695614)</td><td>移植后抗 HLA DSA 诊疗&#x2F;预后&#x2F;治疗推荐</td></tr></tbody></table><blockquote><p><strong>中文共识检索局限说明</strong>：中华医学会器官移植学分会关于高致敏&#x2F;致敏受者围手术期脱敏与诱导的中文专家共识多发表于中文期刊，PubMed 英文轨道未收录全文。本次 CNKI&#x2F;万方独立通道未能核验中文共识原文，相关中文指南请以 CNKI&#x2F;万方核对为准。</p></blockquote><h2 id="七、临床实践要点（基于证据）"><a href="#七、临床实践要点（基于证据）" class="headerlink" title="七、临床实践要点（基于证据）"></a>七、临床实践要点（基于证据）</h2><ol><li><strong>分层先行</strong>：先以 cPRA&#x2F;cRF 分层，优先分配优先权、AM 计划、KPD；脱敏仅作最后的桥。</li><li><strong>脱敏标准化</strong>：PP&#x2F;IA + IVIG ± 利妥昔为一线；交叉配型阳性（尤其 CDC+）必脱敏；imlifidase 用于 cPRA≥98%、交叉配型阳性、ABO 相容逝世供者（欧洲）。</li><li><strong>强化诱导</strong>：高致敏&#x2F;HLAi 倾向 rATG 或 alemtuzumab；按风险分层个体化。</li><li><strong>围手术期监测闭环</strong>：再灌注活检 + 术后连续 DSA + dd-cfDNA + 程序性&#x2F;分子活检，捕捉早期&#x2F;亚临床 AMR。</li><li><strong>反弹管理</strong>：imlifidase 与脱敏后 14 天内 DSA 反弹常见，需预案（序贯 PP&#x2F;IA）。</li><li><strong>知情同意</strong>：告知脱敏费用、AMR 风险（20–30%）、远期 dnDSA 与移植物丢失风险。</li></ol><h2 id="八、研究空白与未来方向"><a href="#八、研究空白与未来方向" class="headerlink" title="八、研究空白与未来方向"></a>八、研究空白与未来方向</h2><ul><li>致敏者围手术期<strong>最佳脱敏组合、剂量、时序缺乏大样本 RCT</strong>（多为单中心&#x2F;病例系列）。</li><li>补体抑制剂预防性使用未达共识，需 RCT 验证。</li><li>imlifidase 后长期（&gt;5 年）移植物存活与 dnDSA 控制数据不足；抗 CD38（达雷妥尤）、CAR-T 等新型疗法仅在早期&#x2F;探索阶段（Jackson 2026；Anwar 2025 CD154 阻断 NHP, PMID 39742504）。</li><li>分子诊断（MMDx&#x2F;B-HOT&#x2F;dd-cfDNA）在致敏者围手术期监测的成本效益未明。</li><li>儿童致敏者围手术期方案专属证据稀缺。</li></ul><h2 id="九、核心参考文献（真实-PMID）"><a href="#九、核心参考文献（真实-PMID）" class="headerlink" title="九、核心参考文献（真实 PMID）"></a>九、核心参考文献（真实 PMID）</h2><ol><li>ESOT HLA 抗体管理指南. <em>Transplant Int.</em> 2022. PMID: <strong>36033645</strong></li><li>ESOT ENGAGE 致敏受者管理 Delphi 共识. <em>Transplant Int.</em> 2024. PMID: <strong>38665475</strong></li><li>西班牙高致敏指南（PATHI）. <em>Transplant Rev.</em> 2025. PMID: <strong>40209457</strong></li><li>法国 imlifidase 共识. <em>Transplant Int.</em> 2023. PMID: <strong>37448448</strong></li><li>比利时 Eurotransplant imlifidase 共识. <em>Transplantation.</em> 2025. PMID: <strong>40320582</strong></li><li>imlifidase HLAi Delphi 国际共识. <em>Transplant Int.</em> 2024. PMID: <strong>39867871</strong></li><li>Kamar N, et al. imlifidase 交叉配型阳性高致敏首 9 例. <em>Kidney Int Rep.</em> 2024. PMID: <strong>39430184</strong></li><li>Noble J, et al. IA 脱敏 cPRA&gt;85% HLAi 49 例. <em>Front Immunol.</em> 2025. PMID: <strong>40625754</strong></li><li>Akalin E. 高致敏受者移植后免疫抑制. <em>Contrib Nephrol.</em> 2009. PMID: <strong>19001811</strong></li><li>Mattiazzi AD, et al. 迈阿密高致敏体验（利妥昔分层诱导）. <em>Clin Transpl.</em> 2014. PMID: <strong>26281142</strong></li><li>Pascual J, et al. rATG 与 DSA. <em>Transplant Rev.</em> 2016. PMID: <strong>26951711</strong></li><li>Parajuli S, et al. UW DSA 经验（分级诱导-脱敏）. <em>Curr Opin Organ Transplant.</em> 2020. PMID: <strong>33044350</strong></li><li>Morath C, et al. AMR 预防. <em>Transpl Int.</em> 2012. PMID: <strong>22587522</strong></li><li>Barbari A, et al. 致敏受者肾移植路径. <em>Exp Clin Transplant.</em> 2012. PMID: <strong>23031081</strong></li><li>Guney M, et al. HLAi 分子诊断. <em>Transplant Rev.</em> 2026. PMID: <strong>41740237</strong></li><li>Jackson KR, et al. 极高度致敏管理. <em>Curr Opin Organ Transplant.</em> 2026. PMID: <strong>41631379</strong></li><li>Heidt S, et al. 高致敏挑战与推荐. <em>Expert Rev Clin Immunol.</em> 2018. PMID: <strong>30004800</strong></li></ol><hr><p><em>证据等级说明：指南&#x2F;共识与系统评价级别较高；脱敏队列多为单中心回顾性（低–中级别）。相关≠因果；致敏者围手术期管理应在有经验的移植中心、知情同意下个体化实施，引用时请核对原研究方案与筛选标准。</em></p>]]></content>
+    
+    
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;概念界定：本文”致敏肾移植等待者”指存在预存抗 HLA 抗体者，包括 DSA 阳性、群体反应性抗体（PRA）高、计算 PRA（cPRA）≥85–99% 的&lt;strong&gt;高度致敏（highly sensitized）&lt;/strong&gt;候选者。核心矛盾：预存 DSA 使交叉配型（CDC&amp;#x2F;FCXM）阳性、HLA 不相容（HLAi）移植风险陡增——围手术期目标是通过&lt;strong&gt;脱敏（desensitization）+ 风险分层诱导 + 严密监测&lt;/strong&gt;把 AMR 风险降到可接受水平，并完成移植。&lt;/p&gt;
+&lt;/blockquote&gt;</summary>
+    
+    
+    
+    <category term="AI综述" scheme="https://zhxmaa.github.io/source/categories/AI%E7%BB%BC%E8%BF%B0/"/>
+    
+    
+    <category term="肾移植" scheme="https://zhxmaa.github.io/tags/%E8%82%BE%E7%A7%BB%E6%A4%8D/"/>
+    
+    <category term="致敏" scheme="https://zhxmaa.github.io/tags/%E8%87%B4%E6%95%8F/"/>
+    
+    <category term="围手术期" scheme="https://zhxmaa.github.io/tags/%E5%9B%B4%E6%89%8B%E6%9C%AF%E6%9C%9F/"/>
+    
+  </entry>
   
   <entry>
     <title>腹腔镜下输尿管切开取石术——打结技巧</title>
@@ -469,29 +496,6 @@
     <summary type="html">&lt;ul&gt;
 &lt;li&gt;&amp;lt;&amp;lt;正念：此刻是一枝花&amp;gt;&amp;gt;（美）乔·卡巴金（Jon Kabat-Zinn） 很多名人都提倡和践行正念冥想，让我们的情绪安定，头脑清晰，故读完后摘录精彩句子如下：&lt;br&gt;&lt;img src=&quot;https://s3.bmp.ovh/imgs/2023/12/07/08ae2c298dfe5140.jpeg&quot;&gt;&lt;/li&gt;
 &lt;li&gt;要想从这种幻梦中觉醒，你要做的是冥想，是系统地培养清明心境和对当下的觉醒意识。这种觉醒与我们所称的“智慧”相伴相生，&lt;strong&gt;而所谓智慧，就是更深刻地洞见因和果，洞见万事万物间的相互联系&lt;/strong&gt;，这样我们才不会深陷在自己创造的虚妄现实中。&lt;/li&gt;&lt;/ul&gt;</summary>
-    
-    
-    
-    <category term="读书" scheme="https://zhxmaa.github.io/source/categories/%E8%AF%BB%E4%B9%A6/"/>
-    
-    
-    <category term="读书" scheme="https://zhxmaa.github.io/tags/%E8%AF%BB%E4%B9%A6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>容忍与自由--胡适</title>
-    <link href="https://zhxmaa.github.io/2023/12/05/%E5%AE%B9%E5%BF%8D%E4%B8%8E%E8%87%AA%E7%94%B1-%E8%83%A1%E9%80%82/"/>
-    <id>https://zhxmaa.github.io/2023/12/05/%E5%AE%B9%E5%BF%8D%E4%B8%8E%E8%87%AA%E7%94%B1-%E8%83%A1%E9%80%82/</id>
-    <published>2023-12-05T11:46:02.000Z</published>
-    <updated>2023-12-05T11:46:02.000Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="https://s3.bmp.ovh/imgs/2023/12/05/71cef15ee0a93f99.jpeg"><br>最近刚读了胡适先生写的&lt;&lt;容忍与自由&gt;&gt;这本书,虽然大部分内容是百年前的演讲稿,现在读来仍有参考意义,感叹大师学贯中西的国际视野和胸怀,让人深思.现摘录部分精彩句子如下:</p><ul><li>新闻独立与言论自由<br>自由主义的第一个意义是自由，第二个意义是民主，第三个意义是容忍——容忍反对党，第四个意义是和平的渐进的改革。<br>在那时，我们曾提出一个平实的态度，就是公正而实际，说老实话，说公平话，不发不负责的高论，是善意的。久而久之，可以使政府养成容忍批评的态度.<span id="more"></span>  </li><li>学生运动<br>凡自由的发表意见，虚心的研究问题，独立的评判是非，严格的遵守规则，勤苦的锻炼身体，牺牲的维护公众利益，这都是有教育价值与训练功用的。  </li><li>治学方法<br>蜜蜂的方法，是又学又思，是理想的作学方法。<br>第一就是提出问题，第二就是提出许多假定的解决，第三就是提出假定解决人，最后求得证实。<br>我且略说科学方法的要点：<br>第一、注重事实 科学方法是用事实作起点的，不要问孔子怎么说，柏拉图怎么说，康德怎么说；我们须要先从研究事实下手，凡游历、调查、统计等事都属于此项。<br>第二、注重假设 单研究事实，算不得科学方法。<br>第三、注重证实 许多假设之中，我们挑出一个，认为最合用的假设。但是这个假设是否真正合用？必须实地证明  </li><li>少年中国的人生观<br>第一须有批评的精神 一切习惯、风俗、制度的改良，都起于一点批评的眼光<br>第二须有冒险进取的精神 我们须要认定这个世界是很多危险的，是不太平的，是需要冒险的。世界的缺点很多，是要我们来补救的；世界的痛苦很多，是要我们来减少的；世界的危险很多，是要我们来冒险进取的。<br>第三须要有社会协进的观念 上条所说的冒险进取，并不是野心的，自私自利的。我们既认定这个世界是给我们活动的，又须认定人类的生活全是社会的生活，社会是有机的组织，全体影响个人，个人影响全体。社会的活动全是互助的，你靠他帮忙，他靠你帮忙，我又靠你同他帮忙，你同他又靠我帮忙。  </li><li>精神文明<br>科学之最精神的处所，是抱定怀疑的态度；对于一切事物，都敢于怀疑，凡无真凭确据的，都不相信。这种态度虽然是消极的，然而有很大的功劳，因为这态度可以使我们不为迷信与威权的奴隶。<br>如果某种文化能够利用智力，征服自然，脱离迷信蒙昧，改进一切社会政治制度，以为人类最多数的幸福——这才是真正的精神文明。  </li><li>朋友们，在你最悲观最失望的时候，那正是你必须鼓起坚强的信心的时候。你要深信：天下没有白费的努力。成功不必在我，而功力必不唐捐。</li><li>这个防身药方只有三味药：<br>第一味药叫做“问题丹”。<br>第二味药叫做“兴趣散”。<br>第三味药叫做“信心汤”。</li></ul>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://s3.bmp.ovh/imgs/2023/12/05/71cef15ee0a93f99.jpeg&quot;&gt;&lt;br&gt;最近刚读了胡适先生写的&amp;lt;&amp;lt;容忍与自由&amp;gt;&amp;gt;这本书,虽然大部分内容是百年前的演讲稿,现在读来仍有参考意义,感叹大师学贯中西的国际视野和胸怀,让人深思.现摘录部分精彩句子如下:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;新闻独立与言论自由&lt;br&gt;自由主义的第一个意义是自由，第二个意义是民主，第三个意义是容忍——容忍反对党，第四个意义是和平的渐进的改革。&lt;br&gt;在那时，我们曾提出一个平实的态度，就是公正而实际，说老实话，说公平话，不发不负责的高论，是善意的。久而久之，可以使政府养成容忍批评的态度.&lt;/li&gt;&lt;/ul&gt;</summary>
     
     
     
