@@ -1517,4 +1517,706 @@
         <tag>围手术期</tag>
       </tags>
   </entry>
+  <entry>
+    <title>肾移植等待者的再评估</title>
+    <url>/2026/10/13/%E8%82%BE%E7%A7%BB%E6%A4%8D%E7%AD%89%E5%BE%85%E8%80%85%E7%9A%84%E5%86%8D%E8%AF%84%E4%BC%B0/</url>
+    <content><![CDATA[<p><strong>检索日期</strong>：2026-10-12<br><strong>检索轨道</strong>：PubMed（16+10 条检索式，206+61 命中去重，130+60 条相关）+ Tavily 中文通道（KDIGO 候选者评估指南、中国儿童等待者评估指南、肾脏移植长期健康管理指南、UpToDate 候选者&#x2F;老年候选者评估）<br><strong>证据分层</strong>：国际指南（KDIGO）&gt; 多中心前瞻性&#x2F;登记处（高）&gt; 单中心队列&#x2F;综述（中）&gt; 病例（低）</p>
+<blockquote>
+<p><strong>核心结论（先抛）</strong>：”候选者再评估”是<strong>贯穿等待名单全程 + 移植前最终关口</strong>的持续流程，<strong>不是入名单时一次性的静态评估</strong>。核心框架：<strong>① 等待名单动态管理（激活&#x2F;暂停&#x2F;失格 delisting）② 移植前最终再评估（癌、心血管、衰弱、感染、依从性、心理社会 6 大维度）③ 等待名单失格（delisting）是既定的临床终点而非失败</strong>。三大 2025-2026 前沿：<strong>主动 delisting 策略</strong>（40484353 多中心前瞻性）、<strong>等待名单死亡指标与 delisting 关联</strong>（41720194）、<strong>衰弱&#x2F;肌少化作为再评估变量</strong>（34656960&#x2F;32512039）。</p>
+</blockquote>
+<span id="more"></span>
+<h2 id="一、候选者再评估的框架（不是”一次评估”）"><a href="#一、候选者再评估的框架（不是”一次评估”）" class="headerlink" title="一、候选者再评估的框架（不是”一次评估”）"></a>一、候选者再评估的框架（不是”一次评估”）</h2><table>
+<thead>
+<tr>
+<th>阶段</th>
+<th>核心动作</th>
+<th>证据</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>入名单前评估</strong></td>
+<td>完整医学 + 心理社会 + 依从性 + 经济&#x2F;医保</td>
+<td>21175834（成人候选者评估经典）&#x2F; 11011632（评估潜在受者）</td>
+</tr>
+<tr>
+<td><strong>等待名单动态再评估</strong></td>
+<td>定期激活&#x2F;暂停&#x2F;失格（inactivation&#x2F;reactivation）</td>
+<td><strong>22663992（临时失格：原因&#x2F;危险因素&#x2F;结局）</strong> &#x2F; 12108987（等待名单管理）</td>
+</tr>
+<tr>
+<td><strong>移植前最终再评估</strong></td>
+<td>癌、心血管、衰弱、感染、依从性、心理社会 6 维度复核</td>
+<td>34200235（术前心血管叙事综述）&#x2F; 30218580（KAS 时代新等待名单管理）</td>
+</tr>
+<tr>
+<td><strong>失格（delisting）作为终点</strong></td>
+<td>delisting 是既定临床终点（非失败）</td>
+<td><strong>33565145（delisting 作为等待名单结局）</strong> &#x2F; <strong>41720194（等待名单死亡指标↔delisting 关联，2026）</strong></td>
+</tr>
+</tbody></table>
+<p><strong>判读</strong>：再评估 &#x3D; “入名单评估 + 等待期动态管理 + 移植前最终复核”三段式，<strong>等待期动态管理是被长期忽视但 2025-2026 上升为重点的环节</strong>。</p>
+<h2 id="二、等待名单动态再评估（失格-x2F-delisting-前沿）"><a href="#二、等待名单动态再评估（失格-x2F-delisting-前沿）" class="headerlink" title="二、等待名单动态再评估（失格&#x2F;delisting 前沿）"></a>二、等待名单动态再评估（失格&#x2F;delisting 前沿）</h2><table>
+<thead>
+<tr>
+<th>证据</th>
+<th>结论</th>
+<th>级别</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>40484353（KI 2025，多中心前瞻性 delisting 策略）</strong></td>
+<td><strong>主动 delisting 策略促进肾移植</strong>（对高风险等待者及时失格&#x2F;重新分层）</td>
+<td><strong>多中心前瞻性（高）</strong></td>
+</tr>
+<tr>
+<td><strong>41720194（AJT 2026，等待名单死亡指标↔delisting 关联）</strong></td>
+<td>新等待名单死亡指标与 delisting 可能性相关</td>
+<td>队列</td>
+</tr>
+<tr>
+<td>42546904（AJT 2026）</td>
+<td><strong>delisting 后无移植生存改善→提示数据质量问题</strong>（delisting 记录质量需标准）</td>
+<td>队列</td>
+</tr>
+<tr>
+<td><strong>35703800（JACC 2022，移植中心 delisting&#x2F;1 年指标变异）</strong></td>
+<td>各中心 delisting 与 1 年结局差异大——<strong>delisting 是中心质量指标</strong></td>
+<td>中心队列</td>
+</tr>
+<tr>
+<td><strong>33565145（Clin Transplant 2021，delisting 作为等待名单结局）</strong></td>
+<td>delisting 应作为正式结局指标纳入等待名单管理</td>
+<td>概念</td>
+</tr>
+<tr>
+<td>38664156（Human Immunol 2024，高致敏低风险 delisting 策略）</td>
+<td>高致敏者（无供体交换offer）可低风险 delisting——<strong>选择性 delisting</strong></td>
+<td>队列</td>
+</tr>
+<tr>
+<td>26762606（AJT 2016，等待名单移除与中心绩效监管）</td>
+<td>移除（removal）受中心绩效监管——delisting 是合规管理</td>
+<td>政策</td>
+</tr>
+<tr>
+<td>22663992（Transplant Proc 2012，临时失格）</td>
+<td>临时失格原因&#x2F;危险因素&#x2F;结局（<strong>inactivation&#x2F;reactivation 机制</strong>）</td>
+<td>单中心</td>
+</tr>
+</tbody></table>
+<p><strong>判读（2025-2026 前沿，重要）</strong>：</p>
+<ol>
+<li><strong>delisting 从”被动失格”转向”主动策略”<strong>（40484353）——对高风险等待者</strong>主动 delisting 再重新分层</strong>，可提升整体移植效率；</li>
+<li><strong>delisting 是质量指标</strong>（35703800）——各中心 delisting 率&#x2F;1 年结局差异大，<strong>delisting 记录质量需标准化</strong>（42546904）；</li>
+<li><strong>选择性 delisting</strong>（38664156）——高致敏者可按风险分层 delisting，不必”一刀切”。</li>
+</ol>
+<h2 id="三、移植前最终再评估-6-大维度"><a href="#三、移植前最终再评估-6-大维度" class="headerlink" title="三、移植前最终再评估 6 大维度"></a>三、移植前最终再评估 6 大维度</h2><h3 id="3-1-癌症筛查（最易遗漏的高风险维度）"><a href="#3-1-癌症筛查（最易遗漏的高风险维度）" class="headerlink" title="3.1 癌症筛查（最易遗漏的高风险维度）"></a>3.1 癌症筛查（最易遗漏的高风险维度）</h3><table>
+<thead>
+<tr>
+<th>证据</th>
+<th>结论</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>27218882（Clin Transplant 2016，原肾 RCC 超声监测）</strong></td>
+<td>候选者<strong>原肾（native kidney）RCC 需常规超声随访</strong>——ESRD&#x2F;透析&#x2F;ADPKD 原肾癌风险↑</td>
+</tr>
+<tr>
+<td>26563384（JASN 2016，ESRD 癌发生率）</td>
+<td>ESRD 等待期癌（尤其 RCC、宫颈&#x2F;乳腺）发生率显著</td>
+</tr>
+<tr>
+<td>23504812（IJAT 2013，等待名单癌发生&#x2F;患病，意大利）</td>
+<td>等待名单癌检出率——<strong>等待期癌筛查应常规</strong></td>
+</tr>
+<tr>
+<td>41271370（World J Transplant 2025，供者有癌史）</td>
+<td><strong>供者癌史</strong>也需再评估（供者侧再评估）</td>
+</tr>
+<tr>
+<td>中文（肾脏移植长期健康管理指南）</td>
+<td>等待期&#x2F;移植后癌筛查纳入长期管理</td>
+</tr>
+</tbody></table>
+<p><strong>判读</strong>：<strong>移植前再评估必须复核”原肾癌 + 等待期新发癌”<strong>（RCC 超声 + 等待期癌筛查）——</strong>移植后免疫抑制会放大未治疗的癌</strong>。</p>
+<h3 id="3-2-心血管评估（等待名单主要死因）"><a href="#3-2-心血管评估（等待名单主要死因）" class="headerlink" title="3.2 心血管评估（等待名单主要死因）"></a>3.2 心血管评估（等待名单主要死因）</h3><table>
+<thead>
+<tr>
+<th>证据</th>
+<th>结论</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>39980435（Clin Transplant 2024，心肌灌注显像增量预后价值）</strong></td>
+<td><strong>心肌灌注显像对等待名单心血管事件有增量预测</strong>——纳入再评估</td>
+</tr>
+<tr>
+<td><strong>41246800（JAHA 2025，冠脉状态决定移植物&#x2F;心血管结局）</strong></td>
+<td><strong>按冠脉状态分层的移植物 + 心血管结局</strong>——冠脉评估是再评估核心</td>
+</tr>
+<tr>
+<td>27392506（Am J Cardiol 2016，冠脉造影在候选者心血管评估）</td>
+<td>候选者冠脉造影角色</td>
+</tr>
+<tr>
+<td>38781937（KBPR 2024，腹部动脉钙定量↔等待名单死亡）</td>
+<td><strong>动脉钙化（定量）预测等待名单死亡</strong>——再评估变量</td>
+</tr>
+<tr>
+<td>30625489（AJN 2019，合并症&#x2F;衰弱&#x2F;等待名单死亡全年龄）</td>
+<td>合并症 + 衰弱↔等待名单死亡</td>
+</tr>
+<tr>
+<td>30795985&#x2F;33989711（ISCHEMIA-CKD）</td>
+<td>等待名单心血管风险与移植时机</td>
+</tr>
+</tbody></table>
+<p><strong>判读</strong>：<strong>心血管是等待名单主要死因</strong>——再评估需<strong>心肌灌注 + 冠脉状态 + 动脉钙化 + 合并症</strong>综合；<strong>41246800（冠脉状态分层）+ 39980435（心肌灌注增量）</strong>是 2024-2025 新证据。</p>
+<h3 id="3-3-衰弱-x2F-肌少化（2025-2026-上升为重点）"><a href="#3-3-衰弱-x2F-肌少化（2025-2026-上升为重点）" class="headerlink" title="3.3 衰弱&#x2F;肌少化（2025-2026 上升为重点）"></a>3.3 衰弱&#x2F;肌少化（2025-2026 上升为重点）</h3><table>
+<thead>
+<tr>
+<th>证据</th>
+<th>结论</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>34656960（Clin Nutr 2021，衰弱&#x2F;瘦组织流失↔等待名单结局）</strong></td>
+<td><strong>衰弱 + 营养不良是等待名单失格&#x2F;死亡独立预测</strong>——纳入再评估</td>
+</tr>
+<tr>
+<td><strong>32512039（AJKD 2020，等待名单顶部的候选者体力表现测试）</strong></td>
+<td><strong>体力测试（gait&#x2F;sit-stand）对等待名单顶部候选者有评估价值</strong></td>
+</tr>
+<tr>
+<td>30625489（AJN 2019，衰弱全年龄）</td>
+<td>衰弱↔等待名单死亡</td>
+</tr>
+<tr>
+<td>31781571（Front Nutr 2019，老年衰弱&#x2F;肌少化）</td>
+<td>老年候选者衰弱&#x2F;肌少化</td>
+</tr>
+</tbody></table>
+<p><strong>判读</strong>：<strong>衰弱&#x2F;肌少化是”再评估”的新一级变量</strong>——不只是”能不能做手术”，而是<strong>等待期生存风险 + 移植后早期失格风险</strong>；32512039 的<strong>体力测试</strong>可作为等待名单动态监测工具。</p>
+<h3 id="3-4-免疫致敏-依从性-心理社会"><a href="#3-4-免疫致敏-依从性-心理社会" class="headerlink" title="3.4 免疫致敏 + 依从性 + 心理社会"></a>3.4 免疫致敏 + 依从性 + 心理社会</h3><table>
+<thead>
+<tr>
+<th>维度</th>
+<th>证据</th>
+<th>结论</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>免疫致敏</strong></td>
+<td><strong>26054537（JASN 2016，等待名单免疫致敏↔死亡）</strong></td>
+<td><strong>高 PRA&#x2F;DSA↔等待名单死亡↑</strong>——再评估需追踪致敏动态</td>
+</tr>
+<tr>
+<td>40209457（KI 2025，高致敏 + DSA 西班牙指南）</td>
+<td>高致敏者再评估（DSA 分层）</td>
+<td></td>
+</tr>
+<tr>
+<td><strong>依从性</strong></td>
+<td>23923971（Clin Transplant 2013，等待期不活动↔术前&#x2F;术后结局差）</td>
+<td><strong>等待期行为（活动&#x2F;依从）预测移植后结局</strong></td>
+</tr>
+<tr>
+<td><strong>心理社会</strong></td>
+<td>32805194&#x2F;30795985&#x2F;31033648（卫生素养&#x2F;身体残障&#x2F;语言隔离↔结局）</td>
+<td>心理社会&#x2F;卫生素养&#x2F;语言是再评估维度</td>
+</tr>
+<tr>
+<td>28183854（CJASN 2017，语言隔离↔等待名单）</td>
+<td>语言隔离影响等待名单进入&#x2F;结局</td>
+<td></td>
+</tr>
+</tbody></table>
+<p><strong>判读</strong>：<strong>免疫致敏动态（DSA）+ 依从性 + 心理社会&#x2F;卫生素养</strong>是”软指标”，但 26054537 证明<strong>高致敏↔等待名单死亡</strong>，**再评估不能只看”医学适合度”**。</p>
+<h2 id="四、特定人群的再评估"><a href="#四、特定人群的再评估" class="headerlink" title="四、特定人群的再评估"></a>四、特定人群的再评估</h2><table>
+<thead>
+<tr>
+<th>人群</th>
+<th>再评估要点</th>
+<th>证据</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>老年候选者</strong></td>
+<td>衰弱&#x2F;合并症&#x2F;手术风险（”how to select”）</td>
+<td>25154797（TR 2014）&#x2F; 31723590（TD 2019 老年活体供肾应推广）&#x2F; UpToDate 老年候选者</td>
+</tr>
+<tr>
+<td><strong>糖尿病</strong></td>
+<td>1型糖尿病移植策略（心肾&#x2F;胰肾）</td>
+<td>29606260（Nephrol 2018）&#x2F; 3146491</td>
+</tr>
+<tr>
+<td><strong>ADPKD</strong></td>
+<td>术前双肾减容（volume reduction）</td>
+<td><strong>29388019（Cardiovasc Intervent Radiol 2018）</strong></td>
+</tr>
+<tr>
+<td><strong>HCV 阳性</strong></td>
+<td>等待期 HCV 结局（DAA 时代）</td>
+<td>30704882（AJKD 2019）&#x2F; 41271370 供者癌史</td>
+</tr>
+<tr>
+<td><strong>HIV 阳性</strong></td>
+<td>HIV 候选者移植希望（2026）</td>
+<td><strong>42751191（World J Transplant 2026）</strong></td>
+</tr>
+<tr>
+<td><strong>肥胖（减重术后）</strong></td>
+<td>减重术→候选者再评估</td>
+<td>31668565&#x2F;28216112（sleeve 术→移植）</td>
+</tr>
+<tr>
+<td><strong>儿童等待者</strong></td>
+<td>移植前评估（适应证&#x2F;时机&#x2F;围手术期&#x2F;随访）</td>
+<td>中文《中国儿童肾脏移植等待者评估与管理指南》（sinomed）</td>
+</tr>
+</tbody></table>
+<p><strong>判读</strong>：<strong>再评估是”分人群”的</strong>——老年（衰弱）、ADPKD（减容）、HIV（2026 新希望）、儿童（专门指南）各有再评估要点。</p>
+<h2 id="五、临床决策框架（专家综合-指南）"><a href="#五、临床决策框架（专家综合-指南）" class="headerlink" title="五、临床决策框架（专家综合 + 指南）"></a>五、临床决策框架（专家综合 + 指南）</h2><p><strong>“三段式再评估”路径</strong>（基于 KDIGO 候选者评估 + 中文长期健康管理指南 + 2025-2026 delisting 证据）：</p>
+<ol>
+<li><strong>入名单前</strong>：完整 6 维度（癌、心血管、衰弱、感染、依从性、心理社会）——建立”再评估基线”；</li>
+<li><strong>等待名单动态再评估</strong>（<strong>2025-2026 重点</strong>）：<ul>
+<li><strong>定期（如 6-12 月）复核</strong>：癌（原肾 RCC 超声 27218882）+ 心血管（心肌灌注&#x2F;冠脉 39980435&#x2F;41246800）+ 衰弱（体力测试 32512039）+ 致敏（DSA 26054537）+ 依从性（23923971）；</li>
+<li><strong>主动 delisting 策略</strong>（40484353）：对高风险等待者<strong>主动失格再重新分层</strong>，非被动等待；</li>
+<li><strong>选择性 delisting</strong>（38664156）：高致敏无 offer 者可低风险 delisting；</li>
+</ul>
+</li>
+<li><strong>移植前最终再评估</strong>：术前 6 维度全复核（34200235 心血管叙事综述 + KDIGO），**”移植日关口”**；</li>
+<li><strong>delisting 作为既定终点</strong>（33565145&#x2F;41720194）：delisting 纳入等待名单管理 KPI，<strong>记录质量需标准化</strong>（42546904）。</li>
+</ol>
+<h2 id="六、判读陷阱"><a href="#六、判读陷阱" class="headerlink" title="六、判读陷阱"></a>六、判读陷阱</h2><table>
+<thead>
+<tr>
+<th>陷阱</th>
+<th>判读</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>“候选者评估是入名单时一次性的”</td>
+<td><strong>✗ 错误</strong>——是<strong>全程动态</strong>（入名单 + 等待期 + 移植前最终）</td>
+</tr>
+<tr>
+<td>“delisting &#x3D; 失败”</td>
+<td><strong>✗ 错误</strong>——delisting 是<strong>既定临床终点&#x2F;质量指标</strong>（33565145&#x2F;35703800），<strong>主动 delisting 可提升移植效率</strong>（40484353）</td>
+</tr>
+<tr>
+<td>“再评估只看医学适合度”</td>
+<td><strong>✗ 不全</strong>——<strong>免疫致敏动态（26054537）+ 依从性（23923971）+ 心理社会&#x2F;卫生素养&#x2F;语言（31033648&#x2F;28183854）</strong>是软但关键的再评估维度</td>
+</tr>
+<tr>
+<td>“原肾癌不重要”</td>
+<td><strong>✗ 错误</strong>——<strong>ESRD&#x2F;透析&#x2F;ADPKD 原肾 RCC 需常规超声</strong>（27218882），<strong>移植后免疫抑制放大未治疗癌</strong></td>
+</tr>
+<tr>
+<td>“衰弱是主观评价”</td>
+<td><strong>✗ 有客观工具</strong>——<strong>体力测试（gait&#x2F;sit-stand，32512039）+ 瘦组织流失（34656960）</strong>可作为等待名单动态监测</td>
+</tr>
+</tbody></table>
+<h2 id="七、研究空白（后续追踪）"><a href="#七、研究空白（后续追踪）" class="headerlink" title="七、研究空白（后续追踪）"></a>七、研究空白（后续追踪）</h2><table>
+<thead>
+<tr>
+<th>空白</th>
+<th>级别</th>
+<th>说明</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>delisting 的量化决策工具&#x2F;风险模型</strong></td>
+<td>⭐⭐⭐</td>
+<td>40484353 前瞻性策略 + 41720194 死亡指标，<strong>但无统一 delisting 风险评分</strong></td>
+</tr>
+<tr>
+<td><strong>衰弱&#x2F;肌少化纳入候选者再评估的前瞻性验证</strong></td>
+<td>⭐⭐</td>
+<td>34656960&#x2F;32512039 观察性，<strong>衰弱作为再评估变量的前瞻性 cohort 缺失</strong></td>
+</tr>
+<tr>
+<td><strong>等待名单动态再评估的”最佳频率”</strong></td>
+<td>⭐⭐</td>
+<td>6 月 vs 12 月 vs 移植前——<strong>无 RCT 界定</strong></td>
+</tr>
+<tr>
+<td><strong>高致敏选择性 delisting（38664156）的长期移植物结局</strong></td>
+<td>⭐⭐</td>
+<td>仅低风险短期，<strong>长期结局未定</strong></td>
+</tr>
+<tr>
+<td><strong>delisting 记录质量&#x2F;数据标准的国际统一</strong></td>
+<td>⭐</td>
+<td>42546904 提示数据质量问题，<strong>无统一 delisting 数据标准</strong></td>
+</tr>
+<tr>
+<td><strong>HIV 候选者（42751191）长期再评估</strong></td>
+<td>⭐</td>
+<td>2026 早期”希望”，<strong>长期再评估路径未定</strong></td>
+</tr>
+</tbody></table>
+<h2 id="八、检索与判读说明"><a href="#八、检索与判读说明" class="headerlink" title="八、检索与判读说明"></a>八、检索与判读说明</h2><ol>
+<li>PubMed 16+10 式（206+61 命中去重）；**”候选者再评估”作为主题命中偏散（多为等待名单管理&#x2F;评估&#x2F;delisting 各向）<strong>——</strong>核心 &#x3D; 流程&#x2F;指南导向**，无单一”再评估 RCT”</li>
+<li><strong>最高等级 &#x3D; KDIGO 候选者评估指南（国际）+ 40484353（KI 2025 多中心前瞻性 delisting）+ 41720194&#x2F;35703800（等待名单死亡&#x2F;delisting 质量指标）</strong></li>
+<li><strong>2025-2026 前沿 &#x3D; 主动 delisting 策略 + 衰弱&#x2F;肌少化作为再评估变量 + delisting 记录质量标准化</strong></li>
+<li><strong>中文</strong>：《中国儿童肾脏移植等待者评估与管理临床诊疗指南》（sinomed）+《肾脏移植长期健康管理指南》（张伟杰&#x2F;邹志宇等，中华）+ KDIGO 候选者评估指南（medsci）经 Tavily 核实、未 CNKI&#x2F;万方原文核对</li>
+<li>**全部”再评估”证据无 RCT 界定”最佳再评估频率&#x2F;工具”**；delisting 策略（40484353）是最接近”主动再评估”的前瞻性证据</li>
+</ol>
+]]></content>
+      <categories>
+        <category>AI综述</category>
+      </categories>
+      <tags>
+        <tag>肾移植等待者</tag>
+        <tag>评估</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title></title>
+    <url>/2026/10/13/media/%E8%82%BE%E7%A7%BB%E6%A4%8D%E5%80%99%E9%80%89%E8%80%85%E7%9A%84%E5%86%8D%E8%AF%84%E4%BC%B0_%E6%96%87%E7%8C%AE%E6%80%BB%E7%BB%93_1998-2026/</url>
+    <content><![CDATA[<h1 id="肾移植候选者的再评估（Reassessment）-文献总结（1998-2026）"><a href="#肾移植候选者的再评估（Reassessment）-文献总结（1998-2026）" class="headerlink" title="肾移植候选者的再评估（Reassessment） 文献总结（1998-2026）"></a>肾移植候选者的再评估（Reassessment） 文献总结（1998-2026）</h1><p><strong>检索日期</strong>：2026-10-12<br><strong>检索轨道</strong>：PubMed（16+10 条检索式，206+61 命中去重，130+60 条相关）+ Tavily 中文通道（KDIGO 候选者评估指南、中国儿童等待者评估指南、肾脏移植长期健康管理指南、UpToDate 候选者&#x2F;老年候选者评估）<br><strong>证据分层</strong>：国际指南（KDIGO）&gt; 多中心前瞻性&#x2F;登记处（高）&gt; 单中心队列&#x2F;综述（中）&gt; 病例（低）</p>
+<blockquote>
+<p><strong>核心结论（先抛）</strong>：”候选者再评估”是<strong>贯穿等待名单全程 + 移植前最终关口</strong>的持续流程，<strong>不是入名单时一次性的静态评估</strong>。核心框架：<strong>① 等待名单动态管理（激活&#x2F;暂停&#x2F;失格 delisting）② 移植前最终再评估（癌、心血管、衰弱、感染、依从性、心理社会 6 大维度）③ 等待名单失格（delisting）是既定的临床终点而非失败</strong>。三大 2025-2026 前沿：<strong>主动 delisting 策略</strong>（40484353 多中心前瞻性）、<strong>等待名单死亡指标与 delisting 关联</strong>（41720194）、<strong>衰弱&#x2F;肌少化作为再评估变量</strong>（34656960&#x2F;32512039）。</p>
+</blockquote>
+<h2 id="一、候选者再评估的框架（不是”一次评估”）"><a href="#一、候选者再评估的框架（不是”一次评估”）" class="headerlink" title="一、候选者再评估的框架（不是”一次评估”）"></a>一、候选者再评估的框架（不是”一次评估”）</h2><table>
+<thead>
+<tr>
+<th>阶段</th>
+<th>核心动作</th>
+<th>证据</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>入名单前评估</strong></td>
+<td>完整医学 + 心理社会 + 依从性 + 经济&#x2F;医保</td>
+<td>21175834（成人候选者评估经典）&#x2F; 11011632（评估潜在受者）</td>
+</tr>
+<tr>
+<td><strong>等待名单动态再评估</strong></td>
+<td>定期激活&#x2F;暂停&#x2F;失格（inactivation&#x2F;reactivation）</td>
+<td><strong>22663992（临时失格：原因&#x2F;危险因素&#x2F;结局）</strong> &#x2F; 12108987（等待名单管理）</td>
+</tr>
+<tr>
+<td><strong>移植前最终再评估</strong></td>
+<td>癌、心血管、衰弱、感染、依从性、心理社会 6 维度复核</td>
+<td>34200235（术前心血管叙事综述）&#x2F; 30218580（KAS 时代新等待名单管理）</td>
+</tr>
+<tr>
+<td><strong>失格（delisting）作为终点</strong></td>
+<td>delisting 是既定临床终点（非失败）</td>
+<td><strong>33565145（delisting 作为等待名单结局）</strong> &#x2F; <strong>41720194（等待名单死亡指标↔delisting 关联，2026）</strong></td>
+</tr>
+</tbody></table>
+<p><strong>判读</strong>：再评估 &#x3D; “入名单评估 + 等待期动态管理 + 移植前最终复核”三段式，<strong>等待期动态管理是被长期忽视但 2025-2026 上升为重点的环节</strong>。</p>
+<h2 id="二、等待名单动态再评估（失格-x2F-delisting-前沿）"><a href="#二、等待名单动态再评估（失格-x2F-delisting-前沿）" class="headerlink" title="二、等待名单动态再评估（失格&#x2F;delisting 前沿）"></a>二、等待名单动态再评估（失格&#x2F;delisting 前沿）</h2><table>
+<thead>
+<tr>
+<th>证据</th>
+<th>结论</th>
+<th>级别</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>40484353（KI 2025，多中心前瞻性 delisting 策略）</strong></td>
+<td><strong>主动 delisting 策略促进肾移植</strong>（对高风险等待者及时失格&#x2F;重新分层）</td>
+<td><strong>多中心前瞻性（高）</strong></td>
+</tr>
+<tr>
+<td><strong>41720194（AJT 2026，等待名单死亡指标↔delisting 关联）</strong></td>
+<td>新等待名单死亡指标与 delisting 可能性相关</td>
+<td>队列</td>
+</tr>
+<tr>
+<td>42546904（AJT 2026）</td>
+<td><strong>delisting 后无移植生存改善→提示数据质量问题</strong>（delisting 记录质量需标准）</td>
+<td>队列</td>
+</tr>
+<tr>
+<td><strong>35703800（JACC 2022，移植中心 delisting&#x2F;1 年指标变异）</strong></td>
+<td>各中心 delisting 与 1 年结局差异大——<strong>delisting 是中心质量指标</strong></td>
+<td>中心队列</td>
+</tr>
+<tr>
+<td><strong>33565145（Clin Transplant 2021，delisting 作为等待名单结局）</strong></td>
+<td>delisting 应作为正式结局指标纳入等待名单管理</td>
+<td>概念</td>
+</tr>
+<tr>
+<td>38664156（Human Immunol 2024，高致敏低风险 delisting 策略）</td>
+<td>高致敏者（无供体交换offer）可低风险 delisting——<strong>选择性 delisting</strong></td>
+<td>队列</td>
+</tr>
+<tr>
+<td>26762606（AJT 2016，等待名单移除与中心绩效监管）</td>
+<td>移除（removal）受中心绩效监管——delisting 是合规管理</td>
+<td>政策</td>
+</tr>
+<tr>
+<td>22663992（Transplant Proc 2012，临时失格）</td>
+<td>临时失格原因&#x2F;危险因素&#x2F;结局（<strong>inactivation&#x2F;reactivation 机制</strong>）</td>
+<td>单中心</td>
+</tr>
+</tbody></table>
+<p><strong>判读（2025-2026 前沿，重要）</strong>：</p>
+<ol>
+<li><strong>delisting 从”被动失格”转向”主动策略”<strong>（40484353）——对高风险等待者</strong>主动 delisting 再重新分层</strong>，可提升整体移植效率；</li>
+<li><strong>delisting 是质量指标</strong>（35703800）——各中心 delisting 率&#x2F;1 年结局差异大，<strong>delisting 记录质量需标准化</strong>（42546904）；</li>
+<li><strong>选择性 delisting</strong>（38664156）——高致敏者可按风险分层 delisting，不必”一刀切”。</li>
+</ol>
+<h2 id="三、移植前最终再评估-6-大维度"><a href="#三、移植前最终再评估-6-大维度" class="headerlink" title="三、移植前最终再评估 6 大维度"></a>三、移植前最终再评估 6 大维度</h2><h3 id="3-1-癌症筛查（最易遗漏的高风险维度）"><a href="#3-1-癌症筛查（最易遗漏的高风险维度）" class="headerlink" title="3.1 癌症筛查（最易遗漏的高风险维度）"></a>3.1 癌症筛查（最易遗漏的高风险维度）</h3><table>
+<thead>
+<tr>
+<th>证据</th>
+<th>结论</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>27218882（Clin Transplant 2016，原肾 RCC 超声监测）</strong></td>
+<td>候选者<strong>原肾（native kidney）RCC 需常规超声随访</strong>——ESRD&#x2F;透析&#x2F;ADPKD 原肾癌风险↑</td>
+</tr>
+<tr>
+<td>26563384（JASN 2016，ESRD 癌发生率）</td>
+<td>ESRD 等待期癌（尤其 RCC、宫颈&#x2F;乳腺）发生率显著</td>
+</tr>
+<tr>
+<td>23504812（IJAT 2013，等待名单癌发生&#x2F;患病，意大利）</td>
+<td>等待名单癌检出率——<strong>等待期癌筛查应常规</strong></td>
+</tr>
+<tr>
+<td>41271370（World J Transplant 2025，供者有癌史）</td>
+<td><strong>供者癌史</strong>也需再评估（供者侧再评估）</td>
+</tr>
+<tr>
+<td>中文（肾脏移植长期健康管理指南）</td>
+<td>等待期&#x2F;移植后癌筛查纳入长期管理</td>
+</tr>
+</tbody></table>
+<p><strong>判读</strong>：<strong>移植前再评估必须复核”原肾癌 + 等待期新发癌”<strong>（RCC 超声 + 等待期癌筛查）——</strong>移植后免疫抑制会放大未治疗的癌</strong>。</p>
+<h3 id="3-2-心血管评估（等待名单主要死因）"><a href="#3-2-心血管评估（等待名单主要死因）" class="headerlink" title="3.2 心血管评估（等待名单主要死因）"></a>3.2 心血管评估（等待名单主要死因）</h3><table>
+<thead>
+<tr>
+<th>证据</th>
+<th>结论</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>39980435（Clin Transplant 2024，心肌灌注显像增量预后价值）</strong></td>
+<td><strong>心肌灌注显像对等待名单心血管事件有增量预测</strong>——纳入再评估</td>
+</tr>
+<tr>
+<td><strong>41246800（JAHA 2025，冠脉状态决定移植物&#x2F;心血管结局）</strong></td>
+<td><strong>按冠脉状态分层的移植物 + 心血管结局</strong>——冠脉评估是再评估核心</td>
+</tr>
+<tr>
+<td>27392506（Am J Cardiol 2016，冠脉造影在候选者心血管评估）</td>
+<td>候选者冠脉造影角色</td>
+</tr>
+<tr>
+<td>38781937（KBPR 2024，腹部动脉钙定量↔等待名单死亡）</td>
+<td><strong>动脉钙化（定量）预测等待名单死亡</strong>——再评估变量</td>
+</tr>
+<tr>
+<td>30625489（AJN 2019，合并症&#x2F;衰弱&#x2F;等待名单死亡全年龄）</td>
+<td>合并症 + 衰弱↔等待名单死亡</td>
+</tr>
+<tr>
+<td>30795985&#x2F;33989711（ISCHEMIA-CKD）</td>
+<td>等待名单心血管风险与移植时机</td>
+</tr>
+</tbody></table>
+<p><strong>判读</strong>：<strong>心血管是等待名单主要死因</strong>——再评估需<strong>心肌灌注 + 冠脉状态 + 动脉钙化 + 合并症</strong>综合；<strong>41246800（冠脉状态分层）+ 39980435（心肌灌注增量）</strong>是 2024-2025 新证据。</p>
+<h3 id="3-3-衰弱-x2F-肌少化（2025-2026-上升为重点）"><a href="#3-3-衰弱-x2F-肌少化（2025-2026-上升为重点）" class="headerlink" title="3.3 衰弱&#x2F;肌少化（2025-2026 上升为重点）"></a>3.3 衰弱&#x2F;肌少化（2025-2026 上升为重点）</h3><table>
+<thead>
+<tr>
+<th>证据</th>
+<th>结论</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>34656960（Clin Nutr 2021，衰弱&#x2F;瘦组织流失↔等待名单结局）</strong></td>
+<td><strong>衰弱 + 营养不良是等待名单失格&#x2F;死亡独立预测</strong>——纳入再评估</td>
+</tr>
+<tr>
+<td><strong>32512039（AJKD 2020，等待名单顶部的候选者体力表现测试）</strong></td>
+<td><strong>体力测试（gait&#x2F;sit-stand）对等待名单顶部候选者有评估价值</strong></td>
+</tr>
+<tr>
+<td>30625489（AJN 2019，衰弱全年龄）</td>
+<td>衰弱↔等待名单死亡</td>
+</tr>
+<tr>
+<td>31781571（Front Nutr 2019，老年衰弱&#x2F;肌少化）</td>
+<td>老年候选者衰弱&#x2F;肌少化</td>
+</tr>
+</tbody></table>
+<p><strong>判读</strong>：<strong>衰弱&#x2F;肌少化是”再评估”的新一级变量</strong>——不只是”能不能做手术”，而是<strong>等待期生存风险 + 移植后早期失格风险</strong>；32512039 的<strong>体力测试</strong>可作为等待名单动态监测工具。</p>
+<h3 id="3-4-免疫致敏-依从性-心理社会"><a href="#3-4-免疫致敏-依从性-心理社会" class="headerlink" title="3.4 免疫致敏 + 依从性 + 心理社会"></a>3.4 免疫致敏 + 依从性 + 心理社会</h3><table>
+<thead>
+<tr>
+<th>维度</th>
+<th>证据</th>
+<th>结论</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>免疫致敏</strong></td>
+<td><strong>26054537（JASN 2016，等待名单免疫致敏↔死亡）</strong></td>
+<td><strong>高 PRA&#x2F;DSA↔等待名单死亡↑</strong>——再评估需追踪致敏动态</td>
+</tr>
+<tr>
+<td>40209457（KI 2025，高致敏 + DSA 西班牙指南）</td>
+<td>高致敏者再评估（DSA 分层）</td>
+<td></td>
+</tr>
+<tr>
+<td><strong>依从性</strong></td>
+<td>23923971（Clin Transplant 2013，等待期不活动↔术前&#x2F;术后结局差）</td>
+<td><strong>等待期行为（活动&#x2F;依从）预测移植后结局</strong></td>
+</tr>
+<tr>
+<td><strong>心理社会</strong></td>
+<td>32805194&#x2F;30795985&#x2F;31033648（卫生素养&#x2F;身体残障&#x2F;语言隔离↔结局）</td>
+<td>心理社会&#x2F;卫生素养&#x2F;语言是再评估维度</td>
+</tr>
+<tr>
+<td>28183854（CJASN 2017，语言隔离↔等待名单）</td>
+<td>语言隔离影响等待名单进入&#x2F;结局</td>
+<td></td>
+</tr>
+</tbody></table>
+<p><strong>判读</strong>：<strong>免疫致敏动态（DSA）+ 依从性 + 心理社会&#x2F;卫生素养</strong>是”软指标”，但 26054537 证明<strong>高致敏↔等待名单死亡</strong>，**再评估不能只看”医学适合度”**。</p>
+<h2 id="四、特定人群的再评估"><a href="#四、特定人群的再评估" class="headerlink" title="四、特定人群的再评估"></a>四、特定人群的再评估</h2><table>
+<thead>
+<tr>
+<th>人群</th>
+<th>再评估要点</th>
+<th>证据</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>老年候选者</strong></td>
+<td>衰弱&#x2F;合并症&#x2F;手术风险（”how to select”）</td>
+<td>25154797（TR 2014）&#x2F; 31723590（TD 2019 老年活体供肾应推广）&#x2F; UpToDate 老年候选者</td>
+</tr>
+<tr>
+<td><strong>糖尿病</strong></td>
+<td>1型糖尿病移植策略（心肾&#x2F;胰肾）</td>
+<td>29606260（Nephrol 2018）&#x2F; 3146491</td>
+</tr>
+<tr>
+<td><strong>ADPKD</strong></td>
+<td>术前双肾减容（volume reduction）</td>
+<td><strong>29388019（Cardiovasc Intervent Radiol 2018）</strong></td>
+</tr>
+<tr>
+<td><strong>HCV 阳性</strong></td>
+<td>等待期 HCV 结局（DAA 时代）</td>
+<td>30704882（AJKD 2019）&#x2F; 41271370 供者癌史</td>
+</tr>
+<tr>
+<td><strong>HIV 阳性</strong></td>
+<td>HIV 候选者移植希望（2026）</td>
+<td><strong>42751191（World J Transplant 2026）</strong></td>
+</tr>
+<tr>
+<td><strong>肥胖（减重术后）</strong></td>
+<td>减重术→候选者再评估</td>
+<td>31668565&#x2F;28216112（sleeve 术→移植）</td>
+</tr>
+<tr>
+<td><strong>儿童等待者</strong></td>
+<td>移植前评估（适应证&#x2F;时机&#x2F;围手术期&#x2F;随访）</td>
+<td>中文《中国儿童肾脏移植等待者评估与管理指南》（sinomed）</td>
+</tr>
+</tbody></table>
+<p><strong>判读</strong>：<strong>再评估是”分人群”的</strong>——老年（衰弱）、ADPKD（减容）、HIV（2026 新希望）、儿童（专门指南）各有再评估要点。</p>
+<h2 id="五、临床决策框架（专家综合-指南）"><a href="#五、临床决策框架（专家综合-指南）" class="headerlink" title="五、临床决策框架（专家综合 + 指南）"></a>五、临床决策框架（专家综合 + 指南）</h2><p><strong>“三段式再评估”路径</strong>（基于 KDIGO 候选者评估 + 中文长期健康管理指南 + 2025-2026 delisting 证据）：</p>
+<ol>
+<li><strong>入名单前</strong>：完整 6 维度（癌、心血管、衰弱、感染、依从性、心理社会）——建立”再评估基线”；</li>
+<li><strong>等待名单动态再评估</strong>（<strong>2025-2026 重点</strong>）：<ul>
+<li><strong>定期（如 6-12 月）复核</strong>：癌（原肾 RCC 超声 27218882）+ 心血管（心肌灌注&#x2F;冠脉 39980435&#x2F;41246800）+ 衰弱（体力测试 32512039）+ 致敏（DSA 26054537）+ 依从性（23923971）；</li>
+<li><strong>主动 delisting 策略</strong>（40484353）：对高风险等待者<strong>主动失格再重新分层</strong>，非被动等待；</li>
+<li><strong>选择性 delisting</strong>（38664156）：高致敏无 offer 者可低风险 delisting；</li>
+</ul>
+</li>
+<li><strong>移植前最终再评估</strong>：术前 6 维度全复核（34200235 心血管叙事综述 + KDIGO），**”移植日关口”**；</li>
+<li><strong>delisting 作为既定终点</strong>（33565145&#x2F;41720194）：delisting 纳入等待名单管理 KPI，<strong>记录质量需标准化</strong>（42546904）。</li>
+</ol>
+<h2 id="六、判读陷阱"><a href="#六、判读陷阱" class="headerlink" title="六、判读陷阱"></a>六、判读陷阱</h2><table>
+<thead>
+<tr>
+<th>陷阱</th>
+<th>判读</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>“候选者评估是入名单时一次性的”</td>
+<td><strong>✗ 错误</strong>——是<strong>全程动态</strong>（入名单 + 等待期 + 移植前最终）</td>
+</tr>
+<tr>
+<td>“delisting &#x3D; 失败”</td>
+<td><strong>✗ 错误</strong>——delisting 是<strong>既定临床终点&#x2F;质量指标</strong>（33565145&#x2F;35703800），<strong>主动 delisting 可提升移植效率</strong>（40484353）</td>
+</tr>
+<tr>
+<td>“再评估只看医学适合度”</td>
+<td><strong>✗ 不全</strong>——<strong>免疫致敏动态（26054537）+ 依从性（23923971）+ 心理社会&#x2F;卫生素养&#x2F;语言（31033648&#x2F;28183854）</strong>是软但关键的再评估维度</td>
+</tr>
+<tr>
+<td>“原肾癌不重要”</td>
+<td><strong>✗ 错误</strong>——<strong>ESRD&#x2F;透析&#x2F;ADPKD 原肾 RCC 需常规超声</strong>（27218882），<strong>移植后免疫抑制放大未治疗癌</strong></td>
+</tr>
+<tr>
+<td>“衰弱是主观评价”</td>
+<td><strong>✗ 有客观工具</strong>——<strong>体力测试（gait&#x2F;sit-stand，32512039）+ 瘦组织流失（34656960）</strong>可作为等待名单动态监测</td>
+</tr>
+</tbody></table>
+<h2 id="七、研究空白（后续追踪）"><a href="#七、研究空白（后续追踪）" class="headerlink" title="七、研究空白（后续追踪）"></a>七、研究空白（后续追踪）</h2><table>
+<thead>
+<tr>
+<th>空白</th>
+<th>级别</th>
+<th>说明</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>delisting 的量化决策工具&#x2F;风险模型</strong></td>
+<td>⭐⭐⭐</td>
+<td>40484353 前瞻性策略 + 41720194 死亡指标，<strong>但无统一 delisting 风险评分</strong></td>
+</tr>
+<tr>
+<td><strong>衰弱&#x2F;肌少化纳入候选者再评估的前瞻性验证</strong></td>
+<td>⭐⭐</td>
+<td>34656960&#x2F;32512039 观察性，<strong>衰弱作为再评估变量的前瞻性 cohort 缺失</strong></td>
+</tr>
+<tr>
+<td><strong>等待名单动态再评估的”最佳频率”</strong></td>
+<td>⭐⭐</td>
+<td>6 月 vs 12 月 vs 移植前——<strong>无 RCT 界定</strong></td>
+</tr>
+<tr>
+<td><strong>高致敏选择性 delisting（38664156）的长期移植物结局</strong></td>
+<td>⭐⭐</td>
+<td>仅低风险短期，<strong>长期结局未定</strong></td>
+</tr>
+<tr>
+<td><strong>delisting 记录质量&#x2F;数据标准的国际统一</strong></td>
+<td>⭐</td>
+<td>42546904 提示数据质量问题，<strong>无统一 delisting 数据标准</strong></td>
+</tr>
+<tr>
+<td><strong>HIV 候选者（42751191）长期再评估</strong></td>
+<td>⭐</td>
+<td>2026 早期”希望”，<strong>长期再评估路径未定</strong></td>
+</tr>
+</tbody></table>
+<h2 id="八、检索与判读说明"><a href="#八、检索与判读说明" class="headerlink" title="八、检索与判读说明"></a>八、检索与判读说明</h2><ol>
+<li>PubMed 16+10 式（206+61 命中去重）；**”候选者再评估”作为主题命中偏散（多为等待名单管理&#x2F;评估&#x2F;delisting 各向）<strong>——</strong>核心 &#x3D; 流程&#x2F;指南导向**，无单一”再评估 RCT”</li>
+<li><strong>最高等级 &#x3D; KDIGO 候选者评估指南（国际）+ 40484353（KI 2025 多中心前瞻性 delisting）+ 41720194&#x2F;35703800（等待名单死亡&#x2F;delisting 质量指标）</strong></li>
+<li><strong>2025-2026 前沿 &#x3D; 主动 delisting 策略 + 衰弱&#x2F;肌少化作为再评估变量 + delisting 记录质量标准化</strong></li>
+<li><strong>中文</strong>：《中国儿童肾脏移植等待者评估与管理临床诊疗指南》（sinomed）+《肾脏移植长期健康管理指南》（张伟杰&#x2F;邹志宇等，中华）+ KDIGO 候选者评估指南（medsci）经 Tavily 核实、未 CNKI&#x2F;万方原文核对</li>
+<li>**全部”再评估”证据无 RCT 界定”最佳再评估频率&#x2F;工具”**；delisting 策略（40484353）是最接近”主动再评估”的前瞻性证据</li>
+</ol>
+]]></content>
+  </entry>
 </search>
