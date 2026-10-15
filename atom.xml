@@ -6,7 +6,7 @@
   <link href="https://zhxmaa.github.io/atom.xml" rel="self"/>
   
   <link href="https://zhxmaa.github.io/"/>
-  <updated>2026-10-13T14:15:39.000Z</updated>
+  <updated>2026-10-15T13:06:18.000Z</updated>
   <id>https://zhxmaa.github.io/</id>
   
   <author>
@@ -15,6 +15,38 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>肾移植术后他克莫司（TAC）肾毒性文献总结</title>
+    <link href="https://zhxmaa.github.io/2026/10/15/%E8%82%BE%E7%A7%BB%E6%A4%8D%E6%9C%AF%E5%90%8E%E4%BB%96%E5%85%8B%E8%8E%AB%E5%8F%B8%EF%BC%88TAC%EF%BC%89%E8%82%BE%E6%AF%92%E6%80%A7%E6%96%87%E7%8C%AE%E6%80%BB%E7%BB%93/"/>
+    <id>https://zhxmaa.github.io/2026/10/15/%E8%82%BE%E7%A7%BB%E6%A4%8D%E6%9C%AF%E5%90%8E%E4%BB%96%E5%85%8B%E8%8E%AB%E5%8F%B8%EF%BC%88TAC%EF%BC%89%E8%82%BE%E6%AF%92%E6%80%A7%E6%96%87%E7%8C%AE%E6%80%BB%E7%BB%93/</id>
+    <published>2026-10-15T13:06:18.000Z</published>
+    <updated>2026-10-15T13:06:18.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>检索日期</strong>：2026-10-06<br><strong>检索轨道</strong>：PubMed（20 条检索式，315 命中去重，308 条相关）+ OpenAlex + Zotero 本地库 + Tavily 中文通道（Cochrane CNI 撤除、OPTIMIZE RCT、CNI 个体化共识）<br><strong>证据分层</strong>：RCT（高）&gt; 多中心队列&#x2F;Meta（中高）&gt; 单中心&#x2F;活检队列（中）&gt; 病例（低）</p><blockquote><p><strong>核心结论（先抛）</strong>：CNI 肾毒性（CNT）分<strong>急性（剂量依赖血管收缩→AKI，可逆）与慢性（进行性移植物功能下降，难与非特异移植肾病鉴别）两型</strong>（40243357 肾科视角综述，2025）。三条主线证据：</p><ol><li><strong>剂量&#x2F;暴露是主因</strong>——减量 TAC 改善慢性肾毒性但<strong>与排斥风险权衡无净获益 RCT</strong>（40840330 系统综述 + OPTIMIZE 65+ RCT 阴性）；</li><li><strong>CNI 撤除&#x2F;mTOR 转换不改善移植物长期结局</strong>（Cochrane：停 CNI 短期排斥↑但移植物衰竭&#x2F;死亡&#x2F;癌症无显著变化；西罗莫司说明书：转换后急性排斥&#x2F;新发糖尿病↑、<strong>对肾功能无益</strong>）；</li><li><strong>暴露变异度（IPV）+ C0&#x2F;D 比是功能性肾损伤的独立预测子</strong>（41766896&#x2F;37783764&#x2F;40104905）——<strong>比均值达标更关键</strong>。</li></ol><p><strong>CsA 与 TAC 肾毒性谱在不同肾 compartment 不同（38884453）</strong>；CYP3A5&#x2F;ABCB1 遗传<strong>不直接决定</strong>急性肾毒性（33646566）——<strong>移植物内浓度比血浓度更预测</strong>。</p></blockquote><span id="more"></span><h2 id="一、急性-vs-慢性-CNT（基础框架）"><a href="#一、急性-vs-慢性-CNT（基础框架）" class="headerlink" title="一、急性 vs 慢性 CNT（基础框架）"></a>一、急性 vs 慢性 CNT（基础框架）</h2><table><thead><tr><th>维度</th><th>急性 CNT</th><th>慢性 CNT</th></tr></thead><tbody><tr><td>机制</td><td>剂量依赖<strong>入球小动脉收缩</strong>（NFAT→内皮素&#x2F;NO 失衡）→ GFR↓</td><td>长期 CNI 暴露→<strong>小动脉硬化透明变、条纹状纤维化、IFTA、毛细血管萎缩</strong></td></tr><tr><td>可逆性</td><td><strong>可逆</strong>（减剂量&#x2F;换药后恢复）</td><td><strong>不可逆</strong>（结构性损伤）</td></tr><tr><td>鉴别</td><td>剂量↑&#x2F;浓度峰→AKI，减暴露恢复</td><td>进行性 eGFR↓，活检 CCHN vs 移植肾病（BNP&#x2F;纤维化非特异）</td></tr><tr><td>证据</td><td>33646566（剂量+血浓度→急性肾毒性）、31386765（TAC 20 年肾毒性）</td><td>32147003（CNI 毒性”多面”综述）、40243357</td></tr></tbody></table><p><strong>判读</strong>：CCHN（慢性 CNI 肾病）与<strong>非特异移植肾病（IFTA+条纹纤维化）病理高度重叠</strong>——40243357 明确指出这是慢性 CNT 的最大诊断难点（<strong>不能凭活检单独定 CNI 毒性</strong>）。</p><h2 id="二、剂量-暴露→肾损伤（核心因果链）"><a href="#二、剂量-暴露→肾损伤（核心因果链）" class="headerlink" title="二、剂量-暴露→肾损伤（核心因果链）"></a>二、剂量-暴露→肾损伤（核心因果链）</h2><table><thead><tr><th>证据</th><th>结论</th><th>级别</th></tr></thead><tbody><tr><td>33646566（Br J Clin Pharmacol 2021）</td><td><strong>TAC 剂量 + 血浓度</strong>（非 CYP3A5&#x2F;ABCB1 遗传）决定急性肾毒性；<strong>移植物内 CGraft 比 C0Blood 更预测</strong></td><td>队列</td></tr><tr><td>40104905（Br J Clin Pharmacol 2025）</td><td><strong>C0&#x2F;D 比（浓度&#x2F;剂量）与肾功能相关</strong>——快代谢者（低 C0&#x2F;D）肾功能差</td><td>回顾 n&#x3D;209（心脏）</td></tr><tr><td>41766896（Front Immunol 2026）</td><td><strong>TAC 暴露变异度（IPV）预测移植肾功能不全</strong>——过暴露→药相关肾损伤</td><td>队列</td></tr><tr><td>37783764（Sci Rep 2023）</td><td><strong>TAC IPV 高→CNI 肾毒性</strong>；药代基因（CYP3A5）与 CNI 肾毒性&#x2F;IPV 关联</td><td>活检队列 n&#x3D;80</td></tr><tr><td>41369519（Ther Drug Monit 2026）</td><td><strong>累积 TAC 暴露 PPK&#x2F;PD 对移植物结局</strong></td><td>PPK</td></tr><tr><td>42227518（Curr Drug Res 2026）</td><td>经验 TAC 剂量在肾移植免疫抑制的有效性</td><td>队列</td></tr><tr><td>38791087（Biomedicines 2024）</td><td>TAC 暴露 + 代谢对移植物结局</td><td>队列</td></tr></tbody></table><p><strong>核心</strong>：**”暴露”（累积 + 变异度 + 浓度&#x2F;剂量比）比”剂量数字”更预测肾毒性<strong>——这是 2023-2026 最大增量；</strong>CYP3A5&#x2F;ABCB1 遗传本身不直接致肾毒性**（33646566，重要阴性结论——药代基因只调剂量、不是病因）。</p><h2 id="三、减量-x2F-撤除-CNI-与-mTOR-转换（干预层）"><a href="#三、减量-x2F-撤除-CNI-与-mTOR-转换（干预层）" class="headerlink" title="三、减量 &#x2F; 撤除 CNI 与 mTOR 转换（干预层）"></a>三、减量 &#x2F; 撤除 CNI 与 mTOR 转换（干预层）</h2><table><thead><tr><th>证据</th><th>结论</th><th>级别</th></tr></thead><tbody><tr><td>40840330（Transplant Rev 2025 系统综述）</td><td><strong>标准 vs 减量 TAC（C0&gt;5）</strong> 结局比较——减量定义不清、证据有限</td><td>Meta</td></tr><tr><td><strong>OPTIMIZE RCT（65+ 岁）</strong></td><td><strong>低剂量 TAC + everolimus 不优于标准 TAC + MMF</strong>（排斥&#x2F;感染&#x2F;肾功能相当，mTOR 副作用多）——中文肾医线 2025 报道</td><td><strong>RCT</strong></td></tr><tr><td>Cochrane（CNI 撤除&#x2F;减量，CD0067）</td><td><strong>停 CNI 短期排斥↑，但移植物衰竭&#x2F;死亡&#x2F;癌症&#x2F;感染无显著变化</strong>；mTOR 替代 CNI 仅减 CMV、结局未改善</td><td><strong>Cochrane 系统综述</strong></td></tr><tr><td>39739990（5 年 RCT 标准 vs 低剂量 PR-TAC）</td><td>加拿大多中心 Phase 3b，2×2（STD&#x2F;LOW TAC × ACEiARB&#x2F;OAHT）</td><td><strong>RCT</strong></td></tr><tr><td>42266381（Front Nephrol 2026，TAC→Sirolimus 8 年）</td><td>长期 TAC→Sirolimus 转换 8 年随访</td><td>队列</td></tr><tr><td>西罗莫司说明书</td><td>3-5 月转换后 <strong>AE&#x2F;停药&#x2F;急性排斥&#x2F;新发糖尿病↑，对肾功能无益</strong></td><td>说明书</td></tr><tr><td>35031117（Transplant Proc 2022）</td><td>Everolimus + 减量 TAC vs MMF + 标准 TAC 临床结局</td><td>队列</td></tr></tbody></table><p><strong>判读</strong>：**”减 TAC &#x2F; 撤 CNI 改善肾功能”证据不足<strong>——OPTIMIZE RCT + Cochrane 一致</strong>不显示净获益<strong>（仅减 CMV）；</strong>TAC→Sirolimus 转换对肾功能无益<strong>（说明书 + 42266381）。减量的现实价值是</strong>降低 CNI 剂量依赖急性肾毒性**，而非逆转慢性 CCHN。</p><h2 id="四、CsA-vs-TAC-肾毒性谱（分-compartment）"><a href="#四、CsA-vs-TAC-肾毒性谱（分-compartment）" class="headerlink" title="四、CsA vs TAC 肾毒性谱（分 compartment）"></a>四、CsA vs TAC 肾毒性谱（分 compartment）</h2><ul><li><strong>38884453（Acta Physiol 2024）</strong>：CsA 与 TAC 长期暴露<strong>在不同肾 compartment 致不同损伤谱</strong>（达到不可逆损伤前）——<strong>CNI 之间肾毒性不可互换</strong>，CsA 更肾小动脉收缩、TAC 更易全身&#x2F;小管</li><li>38844792（Br J Clin Pharmacol 2025）：TAC TDM <strong>谷浓度 vs AUC</strong> 范式之争（与肾毒性暴露量相关）</li><li>39549927（Transplant Immunol 2025）：CsA 免疫&#x2F;毒性&#x2F;临床调节综述</li></ul><h2 id="五、标志物与活检（诊断层）"><a href="#五、标志物与活检（诊断层）" class="headerlink" title="五、标志物与活检（诊断层）"></a>五、标志物与活检（诊断层）</h2><table><thead><tr><th>标志物</th><th>证据</th><th>说明</th></tr></thead><tbody><tr><td><strong>cfDNA &#x2F; 细胞游离 DNA</strong></td><td>41347529（Xeno 2025）、39376164（2024）</td><td>CNI 暴露变异 + cfDNA 升高——微血管损伤桥</td></tr><tr><td><strong>尿 KIM-1 &#x2F; 细胞内 TAC</strong></td><td>37979449（Int Immunopharmacol 2024）</td><td><strong>细胞内 TAC 浓度经通路调控与肾功能损伤相关</strong>（优于血 C0）</td></tr><tr><td>尿外泌体蛋白质组</td><td>33066346（IJMS 2020）</td><td>CNI 治疗患者尿 EV 蛋白质组特征</td></tr><tr><td>活检 CCHN 分型</td><td>39476877（Transplant Immunol 2024）</td><td>移植物病理学对结局&#x2F;存活的影响</td></tr><tr><td>机器学习剂量优化</td><td>41374329（Diagnostics 2025）</td><td>住院 KTR TAC 剂量优化算法</td></tr><tr><td>脂质组</td><td>35625894（Biomedicines 2022）</td><td>血清脂质组评估 CNI 肾毒性</td></tr></tbody></table><p><strong>判读</strong>：<strong>细胞内 TAC（37979449）+ cfDNA 是较新的功能性标志</strong>，血 C0 谷浓度仍是临床金标准但”暴露-肾损伤”关系受 C0&#x2F;D 比、IPV 修正。</p><h2 id="六、临床决策框架（专家综合，非全部-RCT-级）"><a href="#六、临床决策框架（专家综合，非全部-RCT-级）" class="headerlink" title="六、临床决策框架（专家综合，非全部 RCT 级）"></a>六、临床决策框架（专家综合，非全部 RCT 级）</h2><ol><li><strong>急性 CNT</strong>：剂量&#x2F;浓度相关、可逆——<strong>减 TAC 暴露 + 复查 C0 + 排除 BKV&#x2F;排斥</strong>（40243357）；<strong>CYP3A5 表达型剂量本身高</strong>（33646566 阴性结论：遗传只调量非病因），唑类&#x2F;Paxlovi DDI 上调 C0 时需减 TAC</li><li><strong>慢性 CCHN</strong>：<strong>不可逆 + 与非特异移植肾病难鉴别</strong>——活检不能单独定 CNI 毒性（40243357）；<strong>不建议为”减 CNI 肾毒性”激进撤 CNI</strong>（Cochrane 无净获益、OPTIMIZE RCT 阴性、Sirolimus 转换肾功能无益）</li><li><strong>暴露管理是杠杆</strong>：压低 <strong>IPV + C0&#x2F;D 比</strong>（41766896&#x2F;40104905&#x2F;37783764）比追单点”均值达标”更能减少药相关肾损伤</li><li><strong>减量个体化</strong>：低免疫风险者 TAC C0 目标 4-6 ng&#x2F;mL 可行，但<strong>与排斥&#x2F;CMV 权衡</strong>需个体化（40840330）</li><li><strong>CsA vs TAC</strong>：分 compartment 损伤不同（38884453）——<strong>CNI 间换药不能简单”减量”</strong></li></ol><h2 id="七、研究空白"><a href="#七、研究空白" class="headerlink" title="七、研究空白"></a>七、研究空白</h2><table><thead><tr><th>空白</th><th>级别</th><th>说明</th></tr></thead><tbody><tr><td>减量&#x2F;撤 CNI 改善<strong>移植物长期生存</strong>的 RCT（超越 CMV 获益）</td><td>⭐⭐⭐</td><td>OPTIMIZE&#x2F;Cochrane 均阴性，CNI 肾毒性是否真独立致病未证</td></tr><tr><td>TAC→mTOR 转换逆转 CCHN 的 RCT</td><td>⭐⭐⭐</td><td>说明书 + 42266381 提示对肾功能无益</td></tr><tr><td>CCHN vs 非特异移植肾病的<strong>病理 + 标志物</strong>鉴别</td><td>⭐⭐</td><td>40243357 列为最大诊断难点</td></tr><tr><td>细胞内 TAC &#x2F; cfDNA 作为 CNI 肾毒性<strong>常规监测</strong></td><td>⭐⭐</td><td>37979449&#x2F;41347529 为研究阶段</td></tr><tr><td>CNI 暴露-肾损伤的<strong>因果</strong>（vs 相关性混杂）</td><td>⭐⭐</td><td>IPV&#x2F;C0&#x2F;D 均为观察性关联</td></tr></tbody></table><h2 id="八、检索与判读说明"><a href="#八、检索与判读说明" class="headerlink" title="八、检索与判读说明"></a>八、检索与判读说明</h2><ol><li>PubMed 20 式 315 命中去重，308 条相关；<strong>最高等级 &#x3D; OPTIMIZE RCT（65+ 减量 TAC+everolimus）+ 39739990 5 年 RCT（PR-TAC 标准 vs 低剂量）+ Cochrane CNI 撤除系统综述</strong></li><li><strong>关键阴性结论</strong>：CNI 减量&#x2F;撤除&#x2F;mTOR 转换<strong>不改善移植物长期结局</strong>（仅减 CMV）；CYP3A5&#x2F;ABCB1 遗传<strong>非急性肾毒性直接病因</strong>（33646566）</li><li><strong>CsA vs TAC 分 compartment 损伤</strong>（38884453）——CNI 间不可互换</li><li>中文：Cochrane CNI 撤除（CD0067 中文版，停 CNI 排斥↑但移植物衰竭&#x2F;死亡&#x2F;癌症无变化）+ OPTIMIZE 65+ RCT（低剂量 TAC+everolimus 不优于标准）+ 肾移植长期健康管理指南（常规 TAC&#x2F;CsA&#x2F;西罗莫司&#x2F;依维莫司浓度 + 尿蛋白监测）——DOI 建议原文核对</li><li>写讨论必区隔：<strong>IPV&#x2F;C0&#x2F;D 相关≠因果</strong>；<strong>CCHN 与非特异移植肾病病理重叠不能单定</strong>；<strong>减量 CNI 无净获益 RCT 支持</strong></li></ol>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;strong&gt;检索日期&lt;/strong&gt;：2026-10-06&lt;br&gt;&lt;strong&gt;检索轨道&lt;/strong&gt;：PubMed（20 条检索式，315 命中去重，308 条相关）+ OpenAlex + Zotero 本地库 + Tavily 中文通道（Cochrane CNI 撤除、OPTIMIZE RCT、CNI 个体化共识）&lt;br&gt;&lt;strong&gt;证据分层&lt;/strong&gt;：RCT（高）&amp;gt; 多中心队列&amp;#x2F;Meta（中高）&amp;gt; 单中心&amp;#x2F;活检队列（中）&amp;gt; 病例（低）&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;核心结论（先抛）&lt;/strong&gt;：CNI 肾毒性（CNT）分&lt;strong&gt;急性（剂量依赖血管收缩→AKI，可逆）与慢性（进行性移植物功能下降，难与非特异移植肾病鉴别）两型&lt;/strong&gt;（40243357 肾科视角综述，2025）。三条主线证据：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;剂量&amp;#x2F;暴露是主因&lt;/strong&gt;——减量 TAC 改善慢性肾毒性但&lt;strong&gt;与排斥风险权衡无净获益 RCT&lt;/strong&gt;（40840330 系统综述 + OPTIMIZE 65+ RCT 阴性）；&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CNI 撤除&amp;#x2F;mTOR 转换不改善移植物长期结局&lt;/strong&gt;（Cochrane：停 CNI 短期排斥↑但移植物衰竭&amp;#x2F;死亡&amp;#x2F;癌症无显著变化；西罗莫司说明书：转换后急性排斥&amp;#x2F;新发糖尿病↑、&lt;strong&gt;对肾功能无益&lt;/strong&gt;）；&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;暴露变异度（IPV）+ C0&amp;#x2F;D 比是功能性肾损伤的独立预测子&lt;/strong&gt;（41766896&amp;#x2F;37783764&amp;#x2F;40104905）——&lt;strong&gt;比均值达标更关键&lt;/strong&gt;。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;CsA 与 TAC 肾毒性谱在不同肾 compartment 不同（38884453）&lt;/strong&gt;；CYP3A5&amp;#x2F;ABCB1 遗传&lt;strong&gt;不直接决定&lt;/strong&gt;急性肾毒性（33646566）——&lt;strong&gt;移植物内浓度比血浓度更预测&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;</summary>
+    
+    
+    
+    <category term="AI综述" scheme="https://zhxmaa.github.io/source/categories/AI%E7%BB%BC%E8%BF%B0/"/>
+    
+    
+    <category term="他克莫司肾毒性" scheme="https://zhxmaa.github.io/tags/%E4%BB%96%E5%85%8B%E8%8E%AB%E5%8F%B8%E8%82%BE%E6%AF%92%E6%80%A7/"/>
+    
+    <category term="肾移植术后" scheme="https://zhxmaa.github.io/tags/%E8%82%BE%E7%A7%BB%E6%A4%8D%E6%9C%AF%E5%90%8E/"/>
+    
+  </entry>
   
   <entry>
     <title>肾移植等待者的再评估</title>
@@ -472,33 +504,6 @@
 &lt;blockquote&gt;
 &lt;p&gt;本书讲述的苏东坡是一个秉性难改的乐天派，是悲天悯人的道德家，是散文作家，是新派的画家，是伟大的书法家，是酿酒的实验者，是工程师，是假道学的反对派，是瑜伽术的修炼者，是佛教徒，是士大夫，是皇帝的秘书，是饮酒成性者，是心肠慈悲的法官，是政治上的坚持己见者，是月下的漫步者，是诗人，是生性诙谐爱开玩笑的人。但是这还不足以道出苏东坡的全部。&lt;/p&gt;
 &lt;/blockquote&gt;</summary>
-    
-    
-    
-    <category term="读书" scheme="https://zhxmaa.github.io/source/categories/%E8%AF%BB%E4%B9%A6/"/>
-    
-    
-    <category term="读书" scheme="https://zhxmaa.github.io/tags/%E8%AF%BB%E4%B9%A6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>伟大的声音</title>
-    <link href="https://zhxmaa.github.io/2023/12/07/%E4%BC%9F%E5%A4%A7%E7%9A%84%E5%A3%B0%E9%9F%B3/"/>
-    <id>https://zhxmaa.github.io/2023/12/07/%E4%BC%9F%E5%A4%A7%E7%9A%84%E5%A3%B0%E9%9F%B3/</id>
-    <published>2023-12-07T13:48:18.000Z</published>
-    <updated>2023-12-07T13:48:18.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>&lt;&lt;伟大的声音&gt;&gt;俞敏洪编著，分几个类别收集了古今中外大师名人的演讲记录，有些是初次看到，很有收获。</p><p><img src="https://s3.bmp.ovh/imgs/2023/12/07/a03f4bf4cadd42e8.jpeg"></p><ul><li><p>胡适：中国公学十八年级毕业赠言</p><p>易卜生说：“你的最大责任是把你这块材料铸造成器。”学问便是铸器的工具。抛弃了学问便是毁了你自己。</p></li></ul><span id="more"></span>   <ul><li><p>德鲁·吉尔平·福斯特：给2008年本科毕业生的演讲</p><p>答案是：只有你试了，你才知道。但如果你不去尝试你钟爱的事情，不管是绘画、生物还是金融，如果你不去追求你认为最有意义的事情，你会遗憾的。生命是漫长的，你总有时间去筹划B方案。但不要一开始就选择B方案。 </p><p>我认为这就是我关于职业选择的<strong>泊车理论</strong>，几十年来我一直都在与学生一起分享这一理论。不要因为你觉得会找不到停车位就把停在距离目的地有20个街区远的地方。直接去你想去的地方，哪怕再绕回到你不得不去的地方。  </p></li><li><p>史蒂夫·乔布斯：你必须得找出你所钟爱的东西</p><p>热爱你所做的事情是做有意义工作的唯一途径。如果你现在还没有找到它，那么继续寻觅。不要停下来，尽心尽力地去找，当你找到它时你就会领悟 。</p></li><li><p>威廉·福克纳：接受诺贝尔文学奖时的演说</p><p>人类不朽不是因为在万物中唯有他能永远发言、而是因为他有灵魂，有同情心、有牺牲和忍耐精神。 </p></li><li><p>村上春树：永远站在鸡蛋的一侧</p><p>我们绝不允许体制利用我们。我们绝不允许它形成自己的生命。不是体制造就了我们；而是我们成全了体制。  </p></li><li><p>富兰克林·罗斯福：我们唯一值得恐惧的就是恐惧本身。<br>幸福并不在于单纯地占有金钱；幸福还在于取得成就后的喜悦，在于创造努力时的激情。务必不能再忘记劳动带来的喜悦和激励，而去疯狂地追逐那转瞬即逝的利润。  </p></li><li><p>约翰·F·肯尼迪：不要问你的国家能为你做什么</p><p>从希望中得到欢乐，在苦难中保持坚韧。<br>我的美国同胞们：不要问你的国家能为你做些什么，而要问你可以为你的国家做些什么。全世界的同胞们：不要问美国能为你做些什么，而要问我们一起可以为人类的自由做些什么。</p></li></ul>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;&amp;lt;&amp;lt;伟大的声音&amp;gt;&amp;gt;俞敏洪编著，分几个类别收集了古今中外大师名人的演讲记录，有些是初次看到，很有收获。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://s3.bmp.ovh/imgs/2023/12/07/a03f4bf4cadd42e8.jpeg&quot;&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;胡适：中国公学十八年级毕业赠言&lt;/p&gt;
-&lt;p&gt;易卜生说：“你的最大责任是把你这块材料铸造成器。”学问便是铸器的工具。抛弃了学问便是毁了你自己。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;</summary>
     
     
     
